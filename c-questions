@@ -46,5 +46,26 @@ int main() {
     return 0;
 }
 
+FOLIDS TRIANGLE
+
+// Online C compiler to run C program online
+#include <stdio.h>
+
+int main() {
+    int a=1;
+    int b=5;
+    for(int i=0;i<b;i++)
+    {
+        for(int j=0;j<=i;j++){
+            printf("%d ",a++);
+    
+        }
+                printf("\n");
+
+        }
+    
+    
+    return 0;
+}
 
 
