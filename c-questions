@@ -67,5 +67,12 @@ int main() {
     
     return 0;
 }
+                                            04/06/2024
 
 
+input=((A+b)-c*(d/e))+f
+ans)initalize an empty stack
+start scaning the infix operatons from the left to right 
+for each charater in the infix exp
+    if the charater is a number or variable output into the stack
+    opening parathes (
