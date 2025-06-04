@@ -76,3 +76,4 @@ start scaning the infix operatons from the left to right
 for each charater in the infix exp
     if the charater is a number or variable output into the stack
     opening parathes (
+                            
